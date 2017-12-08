@@ -7,6 +7,4 @@ void m_scl(char *);
 void string_scrol(char *);
 void string_flash(char *);
 
-
-
 #endif
